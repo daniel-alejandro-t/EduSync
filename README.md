@@ -1,0 +1,2 @@
+# EduSync
+Aplicación educativa multiplataforma.
